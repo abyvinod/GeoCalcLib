@@ -49,7 +49,7 @@ lrs.$(EXTENTION): lrs.o $(OBJECTS)
 	$(MEX) $< -c CFLAGS='$(DFLAG) $(CFLAGS)'
 
 mfiles:
-	cp ../aux/*.m $(INSTALLDIR)
+	cp ../auxillaryFiles/*.m $(INSTALLDIR)
 
 clean:
 	rm -f *.o *.$(EXTENTION)

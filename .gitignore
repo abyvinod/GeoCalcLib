@@ -6,6 +6,3 @@
 *.mexa64
 *.dylib
 *.so
-docs
-Makefile
-User.make

@@ -6,3 +6,5 @@
 *.mexa64
 *.dylib
 *.so
+mexfiles/createLRSfile.m
+mexfiles/readLRSfile.m
